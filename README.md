@@ -14,6 +14,17 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 - The left and right subtree each must also be a binary search tree.
 
 Challenges:
+
 - BST is not a Python implemented base data structure, has to be created manually.
 - BST Algorithms require deep understanding of the BTS ta structure.
 - Scalability requires extra steps
+
+Approach:
+
+- Understanding the problem
+- Create edge cases
+- Creating Node class
+- Creating basic methods
+- Testing methods with manual cases
+- Creating advanced methods
+- Testing methods with scalable variables
